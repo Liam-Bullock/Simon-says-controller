@@ -1,5 +1,5 @@
 ### Authors
-    Liam Bullock and Anton Waldmann
+    Liam Bullock and Anton Waldmann (Group Partner)
     15 Oct 2021
 
 # Instructions
